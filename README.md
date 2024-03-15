@@ -13,8 +13,8 @@ The following **required** functionality is completed:
 - [❎] User can launch camera to take photo instead of photo library
 - [✅] Users without iPhones to demo this feature can manually add unique photos to their simulator's Photos app
 - [✅] Users can intereact with posts via comments, comments will have user data such as username and name
-- [ ] Posts have a time and location attached to them
-- [ ] Users are not able to see other photos until they post their own (within 24 hours)	
+- [✅] Posts have a time and location attached to them
+- [✅] Users are not able to see other photos until they post their own (within 24 hours)	
  
 The following **optional** features are implemented:
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<img src="http://g.recordit.co/rHVElV7Hbv.gif"/>
 
 ## Notes
 
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Yasaman Emami]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
